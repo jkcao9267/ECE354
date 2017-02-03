@@ -16,7 +16,7 @@ Joseph Cao, Anthony Chan, Kyle Wright
   - [x] C program located at /lab1/part2/software/
   
 ## lab report
-  ** in progress** 
+  **in progress** 
   - [x] inroduction
   - [ ] detailed procedure
     - [ ] part 1

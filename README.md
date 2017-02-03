@@ -7,7 +7,7 @@ Joseph Cao, Anthony Chan, Kyle Wright
   **finished**
 
   - [x] qsys hardware layout file .qip located at /lab1/part1/lab1/synthesis/
-  - [x] C program located at /lab1/part2/software/  
+  - [x] C program located at /lab1/part1/software/  
 
 ## part 2 
   **finished**

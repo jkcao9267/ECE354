@@ -17,7 +17,9 @@ Joseph Cao, Anthony Chan, Kyle Wright
   - [x] C program located at /lab1/lab1_part2/software/
   
 ## lab report
-  **in progress** 
+  **in progress - follow the link below to view the report:** 
+  https://docs.google.com/a/umass.edu/document/d/1neg7Ik1OpnC_3D7hEIJJFdPymRoxprhJ-bDjk23Aax0/edit?usp=sharing
+  
   - [x] inroduction
   - [ ] detailed procedure
     - [ ] part 1

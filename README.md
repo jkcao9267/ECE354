@@ -25,7 +25,7 @@ Joseph Cao, Anthony Chan, Kyle Wright
     - [ ] part 1
     - [ ] part 2
   - [ ] Hardware Changes
-  - [ ] Software Changes
+  - [x] Software Changes
   - [ ] Problems Encountred and Solutions
   - [ ] Results and Conclusion
 

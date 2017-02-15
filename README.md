@@ -21,13 +21,13 @@ Joseph Cao, Anthony Chan, Kyle Wright
   https://docs.google.com/a/umass.edu/document/d/1neg7Ik1OpnC_3D7hEIJJFdPymRoxprhJ-bDjk23Aax0/edit?usp=sharing
   
   - [x] inroduction
-  - [ ] detailed procedure
-    - [ ] part 1
-    - [ ] part 2
-  - [ ] Hardware Changes
+  - [x ] detailed procedure
+    - [x ] part 1
+    - [x ] part 2
+  - [x ] Hardware Changes
   - [x] Software Changes
-  - [ ] Problems Encountred and Solutions
-  - [ ] Results and Conclusion
+  - [x ] Problems Encountred and Solutions
+  - [x ] Results and Conclusion
 
   
   

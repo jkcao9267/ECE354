@@ -31,7 +31,7 @@ Joseph Cao, Anthony Chan, Kyle Wright
 
 
 # Lab 2 Progress
-## setup, take an image display to monitor
+## Setup, take an image display to monitor
   **finished**
 
   - [x] Altera monitor project file located at /lab2/Lab2_ECE354_2017/capture_image/DE1SOC_With_D5M.amp

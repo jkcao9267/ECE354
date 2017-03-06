@@ -29,7 +29,8 @@ Joseph Cao, Anthony Chan, Kyle Wright
   - [x] Problems Encountred and Solutions
   - [x] Results and Conclusion
 
-  # Lab 2 Progress
+
+# Lab 2 Progress
 ## setup, take an image display to monitor
   **finished**
 

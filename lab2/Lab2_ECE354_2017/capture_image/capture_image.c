@@ -55,7 +55,7 @@ void capture(void){
 void greyscale(void){
 	for (y = 0; y < 240; y++) {
 				for (x = 0; x < 320; x++) {
-					short temp2 = *(Video_Mem_ptr + (y << 9) + x);
+					short temp2 = *(storage_ptr + (y << 9) + x);
 					//average RGB for greyscale
 					short red = (temp2>>0x0B)&0x1F;
 					short green = (temp2>>0x06)&0x1F; //remove LSB
@@ -69,7 +69,7 @@ void greyscale(void){
 void invert(void){
 	for (y = 0; y < 240; y++) {
 				for (x = 0; x < 320; x++) {
-					short temp2 = *(Video_Mem_ptr + (y << 9) + x);
+					short temp2 = *(storage_ptr + (y << 9) + x);
 					//isolate RGB and invert
 					short red = ~((temp2>>0x0B)&0x1F)+0x01;
 					short green = ~((temp2>>0x06)&0x1F)+0x01; //remove LSB
@@ -83,9 +83,9 @@ void invert(void){
 void flipH(void){
 	for (y = 0; y < 120; y++) {
 				for (x = 0; x < 320; x++) {
-					short temp2 = *(Video_Mem_ptr + (y << 9) + x);
-					short temp3 = *(Video_Mem_ptr + ((239-y) << 9) + x);
-					*(Video_Mem_ptr + (y << 9) + x) = temp3;
+					short temp2 = *(storage_ptr + (y << 9) + x);
+					short temp3 = *(storage_ptr + ((239-y) << 9) + x);
+					*(storage_ptr + (y << 9) + x) = temp3;
 					*(Video_Mem_ptr + ((239-y) << 9) + x) = temp2;
 				}
 			}

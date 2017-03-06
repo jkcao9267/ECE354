@@ -45,6 +45,7 @@ Joseph Cao, Anthony Chan, Kyle Wright
   - [x] flip over horizontal axis
   - [x] flip over vertical axis
   - [x] print timestamp to monitor
+  
 ## Optional functionality (switches, bonus, etc)
   **finished** 
   - [x] configured switches to turn on one image processing function at a time

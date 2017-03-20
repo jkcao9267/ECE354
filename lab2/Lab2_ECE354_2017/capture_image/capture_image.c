@@ -145,7 +145,7 @@ while(1){
 		ltime=time(NULL)-5*60*60;
 		VGA_text (0, 5, asctime(localtime(&(ltime))));
 		break;
-		case 32: //bonus bby
+		case 32: 	//bonus
 					//capture new picture
 					*(Video_In_DMA_ptr + 3)	= 0x4;
 					while (1)

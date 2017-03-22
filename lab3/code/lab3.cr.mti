@@ -1,0 +1,15 @@
+{C:/Users/jkcao/Desktop/New folder/rle_testbench.v} {1 {vlog -work work -stats=none {C:/Users/jkcao/Desktop/New folder/rle_testbench.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module rle_testbench
+
+Top level modules:
+	rle_testbench
+
+} {} {}} {C:/Users/jkcao/Desktop/New folder/rle_enc.v} {1 {vlog -work work -stats=none {C:/Users/jkcao/Desktop/New folder/rle_enc.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module rle_enc
+
+Top level modules:
+	rle_enc
+
+} {} {}}

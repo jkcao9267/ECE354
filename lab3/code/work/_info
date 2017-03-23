@@ -9,42 +9,42 @@ z2
 cModel Technology
 dC:/altera/16.0
 vrle_enc
-Z0 !s110 1490216078
+Z0 !s110 1490300343
 !i10b 1
 !s100 SbY=d1=:R6<8iE;1EVjcD1
-IA3TF_?db8cAZhlR^VgC]82
+I6LoW[j7:^zWTPhP6bAU[T0
 Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dC:/Users/jkcao/Desktop/New folder
+Z2 dC:/Users/jkcao/Desktop/ECE354/lab3/code
 w1490215361
-8C:/Users/jkcao/Desktop/New folder/rle_enc.v
-FC:/Users/jkcao/Desktop/New folder/rle_enc.v
+8C:/Users/jkcao/Desktop/ECE354/lab3/code/rle_enc.v
+FC:/Users/jkcao/Desktop/ECE354/lab3/code/rle_enc.v
 L0 5
 Z3 OV;L;10.4d;61
 r1
 !s85 0
 31
-Z4 !s108 1490216078.000000
-!s107 C:/Users/jkcao/Desktop/New folder/rle_enc.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jkcao/Desktop/New folder/rle_enc.v|
+Z4 !s108 1490300343.000000
+!s107 C:/Users/jkcao/Desktop/ECE354/lab3/code/rle_enc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jkcao/Desktop/ECE354/lab3/code/rle_enc.v|
 !i113 1
 Z5 o-work work
 vrle_testbench
 R0
 !i10b 1
-!s100 Jl4c_B[z@fkcaVXbT643o2
-INIm[TbJ:=KlW]ne`VMZ0T1
+!s100 G9@6=f0hCigmYB3OgbLJA3
+IPgGj>`6Jf0Ph[k6R@5Tf81
 R1
 R2
-w1490216075
-8C:/Users/jkcao/Desktop/New folder/rle_testbench.v
-FC:/Users/jkcao/Desktop/New folder/rle_testbench.v
+w1490300336
+8C:/Users/jkcao/Desktop/ECE354/lab3/code/rle_testbench.v
+FC:/Users/jkcao/Desktop/ECE354/lab3/code/rle_testbench.v
 L0 7
 R3
 r1
 !s85 0
 31
 R4
-!s107 C:/Users/jkcao/Desktop/New folder/rle_testbench.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jkcao/Desktop/New folder/rle_testbench.v|
+!s107 C:/Users/jkcao/Desktop/ECE354/lab3/code/rle_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jkcao/Desktop/ECE354/lab3/code/rle_testbench.v|
 !i113 1
 R5

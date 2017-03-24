@@ -60,6 +60,15 @@ module rle_testbench;
 	#48 in_datat[7:0]=8'b01111110;
 	//test vector 8
 	#58 in_datat[7:0]=8'b11001100;
+	//test vector 9
+	#61 in_datat[7:0]=8'b11101111;
+	//test vector 10
+	#61 in_datat[7:0]=8'b11110101;
+	//test series with all 0
+	#82 in_datat[7:0]=8'b00000000;
+	#42 in_datat[7:0]=8'b00000000;
+	#42 in_datat[7:0]=8'b00000000;
+	#42 in_datat[7:0]=8'b00000000;
 	$stop;
 	end
 endmodule
